@@ -1,0 +1,73 @@
+séance du 11/12 :
+
+création des "issues"
+tutos google assistant pour chatbot => création d'un premier chatbot avec google actions
+
+séance du 04/01 :
+
+chatbot basique fonctionnel
+utilisation de IFTTT pour envoyer des sms avec l'assistant
+création et entrainement facile d'un réseau : https://teachablemachine.withgoogle.com/
+
+mise en place appli TensorFlow sur telephone
+découverte MQTT
+
+séance du 05/01 :
+
+utilisation de IFTTT pour envoyer des messages simple sur adafruit
+prise en main ESP32 : utilisation caméra via webservice+AP
+
+séance du 06/01 :
+
+implémentation code MQTT sur la carte (mqtt_esp32.ino)
+Fonction réalisée : échange de données entre l'assistant google et l'ESP via adafruit IO / IFTTT. affichage sur l'écran de l'ESP.
+recherches sur TensorFlow : test implémentation sur ESP32.
+
+séance du 07/01 :
+
+mise en place de esp-idf sous linux, implémentation hello_world
+implémentation d'un code TensorFlow lite sur ESP32 via linux
+
+séance du 08/01 :
+
+amélioration du code mqtt_esp32.ino sur ESP 32 pour récupérer la vidéo et afficher ses caractéristiques à l'écran (integration_cam_mqtt.ino)
+recherche de solutions pour combiner TensorFlow lite et ESP32
+mise en fonctionnement de l'algorithme "person detection" de TensorFlow sur ESP32
+
+séance du 11/01 :
+
+recherches sur TensorFlowLite (création/entrainement/implémentation de notre jeu)
+découverte Model Maker
+
+séance du 12/01 :
+
+intégration de la reconnaissance de personnes dans l'algo MQTT + retour notification utilisateur
+Rédaction du compte-rendu intermédiaire
+recherches sur TensorFlowLite
+
+séance du 13/01 :
+
+Recherches sur l'adaptation d'un nouveau réseau de neurones à l'ESP32
+
+séance du 14/01 :
+
+présentation intermédiaire
+Recherches sur l'adaptation d'un nouveau réseau de neurones à l'ESP32
+
+séance du 15/01 :
+
+succès sur l'implémentation sans erreurs du modèle chien/chat sur l'ESP32 (mais non fonctionnel !)
+
+séance du 18/01 :
+
+amélioration et test du modèle chien/chat sur ordinateur
+
+séance du 19/01 :
+
+modèle chien/chat fonctionnel sur ordinateur
+implémentation sur ESP32
+
+séance du 20/01 :
+
+modèle chien/chat fonctionnel sur ESP32
+préparation de la soutenance
