@@ -10,7 +10,6 @@ auteurs : Antoine REBOULLET et Arthur CARON
 4. **Incomplete features**
   1. [ ] Intégration du nouveau réseau chien/chat dans le projet complet (à la place de la détection de personnes)
 
-
 # Description de l'algo
 
 ```mermaid
