@@ -7,7 +7,7 @@ auteurs : Antoine REBOULLET et Arthur CARON
   2. [x] communication entre smartphone Android (assistant google) et ESP32 TTGO Camera via IFTTT, Adafruit I/O, MQTT, SMS
   3. [x] algorithme de détection de visage tensorflow lite implémenté sur ESP32
   4. [x] entrainement et implémentation de notre propre réseau de neurones avec google collab (chien/chat) sur l'ESP32
-4. **Incomplete features**
+2. **Incomplete features**
   1. [ ] Intégration du nouveau réseau chien/chat dans le projet complet (à la place de la détection de personnes)
 
 # Description de l'algo
